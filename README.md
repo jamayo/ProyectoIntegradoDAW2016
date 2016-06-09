@@ -3,7 +3,7 @@ Proyecto aplicación web Ciclo Superior DAW
 
 Proyecto: elaboración de sitio web de club artes marciales a nivel nacional (10 clubes)
 
-          Ya existía un sitio web, pero el cliente quería una renovación al ser obsoleto
+         * Ya existía un sitio web, pero el cliente quería una renovación al ser obsoleto
           y dificil de mantener. La información se mostraba sin buena usabilidad.
           
           Requisitos del cliente: -sitio web bien estructurado con menus claros
