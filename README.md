@@ -17,7 +17,7 @@ y dificil de mantener. La información se mostraba sin buena usabilidad.
                                    email de club por parte del usuario.
 
 
-sitio:  proyecto.artesmarcialesclub.es
+sitio:  [proyecto.artesmarcialesclub.es](http://proyecto.artesmarcialesclub.es)
 
 ojo, el sitio antiguo es www.artesmarcialesclub.es  el nuevo sitio estará activo a finales de junio.
                                    
