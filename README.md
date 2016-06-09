@@ -14,5 +14,9 @@ Proyecto: elaboración de sitio web de club artes marciales a nivel nacional (10
                                   -directorio de clubes
                                   -formulario de contacto con respuesta automática, con elección de
                                    email de club por parte del usuario.
-                                   
+
+
+sitio:  proyecto.artesmarcialesclub.es
+
+ojo, el sitio antiguo es www.artesmarcialesclub.es  el nuevo sitio estará activo a finales de junio.
                                    
